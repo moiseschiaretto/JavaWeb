@@ -12,6 +12,7 @@
         |
         |-----.gitgnore
         |-----README.md
+        |-----pom.xml
         |
         |_____src
         |      |____test
@@ -37,5 +38,12 @@
         |                    |     |____SendQuote.java
 
 ```
+
+## Arquivo "pom.xml"
+
+- Este arquivo contém todas as dependências do projeto, do Apache Maven, site do repositório de dependências:
+
+- https://mvnrepository.com/
+
 
 **Em construção...**
