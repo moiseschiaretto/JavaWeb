@@ -10,9 +10,9 @@
 
 ```     .
         |
+        |-----pom.xml
         |-----.gitgnore
         |-----README.md
-        |-----pom.xml
         |
         |_____src
         |      |____test
