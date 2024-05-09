@@ -4,7 +4,7 @@
   
 - Descrição das explicações de cada item da 'estrutura do projeto "bdd_test" desenvolvido'.
   
-- **Java com Selenium WebDriver e Cucumber (BDD com a linguagem Gherkin)**
+- **Java com Selenium WebDriver e Cucumber (BDD com a linguagem Gherkin).**
 
 ![08_Selenium_Webdriver](https://github.com/moiseschiaretto/JavaWeb/assets/84775466/1dbd267d-18bf-4aaf-b9ec-caf1516f9bc8)
 
