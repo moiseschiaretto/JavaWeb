@@ -1,9 +1,10 @@
 ## Projeto "bdd_test"
+
 - Autor Moisés Ademir Chiaretto
   
 - Descrição das explicações de cada item da 'estrutura do projeto "bdd_test" desenvolvido'.
   
-- **Java com Selenium Webdriver e Cucumber**
+- **Java com Selenium WebDriver e Cucumber**
 
 ![08_Selenium_Webdriver](https://github.com/moiseschiaretto/JavaWeb/assets/84775466/1dbd267d-18bf-4aaf-b9ec-caf1516f9bc8)
 
