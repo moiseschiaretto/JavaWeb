@@ -48,7 +48,7 @@
 
 ## Arquivo "pom.xml"
 
-- Este arquivo contém todas as dependências do projeto, do Apache Maven, site do repositório de dependências:
+- Este arquivo contém todas as dependências do projeto, do **Apache Maven**, site do repositório de dependências:
 
 - https://mvnrepository.com/
 
