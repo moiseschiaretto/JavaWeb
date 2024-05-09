@@ -3,7 +3,14 @@
   
 - Descrição das explicações de cada item da 'estrutura do projeto "bdd_test" desenvolvido'.
   
-- **Java com Selenium Webdriver e Cucumber** 
+- **Java com Selenium Webdriver e Cucumber**
+
+![08_Selenium_Webdriver](https://github.com/moiseschiaretto/JavaWeb/assets/84775466/1dbd267d-18bf-4aaf-b9ec-caf1516f9bc8)
+
+![06_Cucumber](https://github.com/moiseschiaretto/JavaWeb/assets/84775466/3faf7828-419d-4811-bb34-40dd36ddb338)
+
+![07_Java](https://github.com/moiseschiaretto/JavaWeb/assets/84775466/22e317e3-2911-404a-a5f6-c7decf1e24ab)
+ 
 
 ## Estrutura do Projeto "bdd_test"
 
