@@ -63,6 +63,9 @@
         - FrameWork Cucumber também com o plugin instalado em: **Menu Help, opção Eclipse Marketplace, Guia Search, Find = "Cucumber" (ver imagem abaixo).**
      
         - Selecionar o **"Cucumber Eclipse Plugin versão"** e clicar no botão **"Install".**
+     
+        ![03_Instalar_Plugin_Cucumber](https://github.com/moiseschiaretto/JavaWeb/assets/84775466/afb2be50-e135-4dc3-93e0-780167dfd69f)
+
  
     - JUnit para a **execução do BDD e do TDD (código Java).**
  
