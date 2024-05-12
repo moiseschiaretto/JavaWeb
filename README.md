@@ -16,7 +16,7 @@
 ## Estrutura do Projeto "bdd_test"
 
 
-```     .
+```     bdd_test
         |
         |-----pom.xml
         |-----.gitgnore
@@ -31,7 +31,7 @@
         |                    |
         |                    |____driver
         |                    |     |____AutoDriver.java
-        |                    |     |____AutoDriver.java
+        |                    |     |____AutoEnumDriver.java
         |                    |
         |                    |____elements
         |                    |     |____Elemento.java
@@ -44,6 +44,16 @@
         |                    |     |____ObjectWebDriver.java
         |                    |     |____SelectPriceOption.java
         |                    |     |____SendQuote.java
+        |
+        |_____src
+        |      |____test
+        |            |____resources
+        |                    |____chromedriver_124
+        |                    |     |____chromedriver.exe
+        |                    |        
+        |                    |____geckodriver_0340
+        |                    |     |____geckodriver.exe
+
 
 ```
 
