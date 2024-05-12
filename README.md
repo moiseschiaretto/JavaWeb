@@ -53,6 +53,15 @@
 
 - https://mvnrepository.com/
 
+- Dependências do **Arquivo "pom.xml":**
+
+    - Framework Cucumber para utilizar a linguagem **Gherkin e escrever o BDD.**
+ 
+    - JUnit para a **execução do BDD e do TDD (código Java).**
+ 
+    - Selenium WebDriver para **acessar o browser e a URL especificada no código Java.**
+
+
 ![09_Apache_Maven](https://github.com/moiseschiaretto/JavaWeb/assets/84775466/8cde13f8-6a79-4ca2-b4d5-13fe6e384164)
 
 
