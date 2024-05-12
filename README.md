@@ -60,11 +60,9 @@
 
     - Framework Cucumber para utilizar a linguagem **Gherkin e escrever o BDD.**
 
-        - FrameWork Cucumber também com o plugin instalado em: **Menu Help, opção Eclipse Marketplace, Find = "Cucumber"
-          (ver imagem abaixo).**
-
-  ![03_Instalar_Plugin_Cucumber](https://github.com/moiseschiaretto/JavaWeb/assets/84775466/f4b833d4-86fc-468a-88bd-6c91f219c1f6)
-
+        - FrameWork Cucumber também com o plugin instalado em: **Menu Help, opção Eclipse Marketplace, Guia Search, Find = "Cucumber" (ver imagem abaixo).**
+     
+        - Selecionar o **"Cucumber Eclipse Plugin versão"** e clicar no botão **"Install".**
  
     - JUnit para a **execução do BDD e do TDD (código Java).**
  
