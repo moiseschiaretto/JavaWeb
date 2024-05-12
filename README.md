@@ -56,7 +56,11 @@
 ![09_Apache_Maven](https://github.com/moiseschiaretto/JavaWeb/assets/84775466/8cde13f8-6a79-4ca2-b4d5-13fe6e384164)
 
 
-| ![01_IMG_POM_XML](https://github.com/moiseschiaretto/JavaWeb/assets/84775466/6b49dcee-9e84-4c4d-b486-7d5b53fb138e) | ![02_IMG_POM_XML](https://github.com/moiseschiaretto/JavaWeb/assets/84775466/49cb27e0-b3f6-43ee-a02a-213816aa306b) |
+![01_IMG_POM_XML](https://github.com/moiseschiaretto/JavaWeb/assets/84775466/6b49dcee-9e84-4c4d-b486-7d5b53fb138e)
+
+
+![02_IMG_POM_XML](https://github.com/moiseschiaretto/JavaWeb/assets/84775466/49cb27e0-b3f6-43ee-a02a-213816aa306b)
+
 
 
 **Documentação em construção...**
