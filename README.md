@@ -16,43 +16,45 @@
 ## Estrutura do Projeto "bdd_test"
 
 
-```     bdd_test
-        |
-        |-----pom.xml
-        |-----.gitgnore
-        |-----README.md
-        |
-        |_____src
-        |      |____test
-        |            |____java
-        |                    |____bdd
-        |                    |     |____RunScenarios.java
-        |                    |     |____DadosDoVeiculo.feature
-        |                    |
-        |                    |____driver
-        |                    |     |____AutoDriver.java
-        |                    |     |____AutoEnumDriver.java
-        |                    |
-        |                    |____elements
-        |                    |     |____Elemento.java
-        |                    |     |____Time.java
-        |                    |
-        |                    |____tests
-        |                    |     |____EnterInsurantData.java
-        |                    |     |____EnterProductData.java
-        |                    |     |____EnterVehicleData.java
-        |                    |     |____ObjectWebDriver.java
-        |                    |     |____SelectPriceOption.java
-        |                    |     |____SendQuote.java
-        |
-        |_____src
-        |      |____test
-        |            |____resources
-        |                    |____chromedriver_124
-        |                    |     |____chromedriver.exe
-        |                    |        
-        |                    |____geckodriver_0340
-        |                    |     |____geckodriver.exe
+```
+
+bdd_test
+  |
+  |-----pom.xml
+  |-----.gitgnore
+  |-----README.md
+  |
+  |_____src
+  |      |____test
+  |            |____java
+  |                    |____bdd
+  |                    |     |____RunScenarios.java
+  |                    |     |____DadosDoVeiculo.feature
+  |                    |
+  |                    |____driver
+  |                    |     |____AutoDriver.java
+  |                    |     |____AutoEnumDriver.java
+  |                    |
+  |                    |____elements
+  |                    |     |____Elemento.java
+  |                    |     |____Time.java
+  |                    |
+  |                    |____tests
+  |                    |     |____EnterInsurantData.java
+  |                    |     |____EnterProductData.java
+  |                    |     |____EnterVehicleData.java
+  |                    |     |____ObjectWebDriver.java
+  |                    |     |____SelectPriceOption.java
+  |                    |     |____SendQuote.java
+  |
+  |_____src
+  |      |____test
+  |            |____resources
+  |                    |____chromedriver_124
+  |                    |     |____chromedriver.exe
+  |                    |        
+  |                    |____geckodriver_0340
+  |                    |     |____geckodriver.exe
 
 
 ```
@@ -74,7 +76,7 @@
      
         - Selecionar o **"Cucumber Eclipse Plugin versão"** e clicar no botão **"Install".**
      
-        ![03_Instalar_Plugin_Cucumber](https://github.com/moiseschiaretto/JavaWeb/assets/84775466/afb2be50-e135-4dc3-93e0-780167dfd69f)
+    ![03_Instalar_Plugin_Cucumber](https://github.com/moiseschiaretto/JavaWeb/assets/84775466/afb2be50-e135-4dc3-93e0-780167dfd69f)
 
  
     - JUnit para a **execução do BDD e do TDD (código Java).**
