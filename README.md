@@ -141,10 +141,13 @@ Feature: Wizard Dados do Veiculo
 
 - Contém o código para a execução do BDD e do TDD.
 
-- Caminho deste arquivo no repositório Github:
+- Caminho o arquivo "RunScenarios.java" no repositório Github:
 
 	**/src/test/java/bdd/RunScenarios.java**
 
+- Caminho para os arquivos com o TDD (métodos do BDD) no Guthub:
+
+	**/src/test/java/tests**
 
 ```
 
