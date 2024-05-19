@@ -151,6 +151,8 @@ Feature: Wizard Dados do Veiculo
 
 ```
 
+// Arquivo "RunScenarios.java"
+
 package bdd;
 
 import org.junit.runner.RunWith;
