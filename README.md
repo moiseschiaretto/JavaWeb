@@ -90,5 +90,87 @@ bdd_test
 ![02_IMG_POM_XML](https://github.com/moiseschiaretto/JavaWeb/assets/84775466/49cb27e0-b3f6-43ee-a02a-213816aa306b)
 
 
+## Aqruivo do BDD "DadosDoVeinculo.feature!
+
+- Este arquivo contém o BDD do projeto escrito na linguagem Gherkin com o framework Cucumber.
+
+- Caminho deste arquivo no repositório Github:
+
+**JavaWeb/src/test/java/bdd/DadosDoVeiculo.feature**
+
+```
+
+# Author: Moisés Chiaretto
+# language: en
+@WizardVehicleData
+Feature: Wizard Dados do Veiculo
+
+  Scenario: Inserir Dados do Veiculo
+    Given acessar o frame Enter Vehicle Data igual a doze campos
+    When permitir preencher ou selecionar os dados dos campos do veículo
+    And clicar o frame Enter Vehicle Data igual a zero campos
+    Then clicar no botao Next para o sistema redirecionar para o frame Enter Insurant Data
+
+  Scenario: Inserir Dados do Seguro
+    Given acessar o frame Enter Insurant Data igual a sete campos
+    When permitir preencher ou selecionar os dados dos campos do seguro
+    Then clicar o frame Enter Insurant Data igual a zero campos
+    And clicar no botao Next para o sistema redirecionar para o frame Enter Produt Data
+
+  Scenario: Inserir Dados do Produto
+    Given acessar o frame Enter Product Data igual a seis campos
+    When preencher ou selecionar os dados dos campos do produto
+    And clicar o frame Enter Product Data igual a zero campos
+    Then clicar no botao Next para o sistema redirecionar para o frame Select Price Option
+
+  Scenario: Selecionar Opcao Preco
+    Given acessar o frame Select Price Option igual a um campo
+    When selecionar a opcao de preco do produto
+    And clicar o frame Select Price Option igual a zero campos
+    Then clicar no botao Next para o sistema redirecionar para o frame Send Quote
+
+  Scenario: Inserir Dados de envio da Cotacao
+    Given acessar o frame Send Quote igual a quatro campos
+    When preencher ou selecionar os dados dos campos de envio da cotacao
+    And clicar o frame Send Quote igual a zero campos
+    Then clicar no botao Send para enviar os dados e exibir a mensagem de alerta de confirmacao de envio
+
+```
+
+## Arquivo "RunScenarios.java"
+
+- Contém o código para a execução do BDD e do TDD.
+
+- Caminho deste arquivo no repositório Github:
+
+**src/test/java/bdd/RunScenarios.java**
+
+
+```
+
+package bdd;
+
+import org.junit.runner.RunWith;
+
+import cucumber.api.CucumberOptions;
+import cucumber.api.junit.Cucumber;
+
+@RunWith(Cucumber.class)
+@CucumberOptions(
+		features = "src/test/java/bdd",
+		// plugin = {"pretty", "html:target/report-html"},
+		monochrome = true,
+		// snippets = SnippetType.CAMELCASE,
+		dryRun = true,
+		strict = false
+		
+		)
+
+public class RunScenarios {
+
+}
+
+```
+
 
 **Documentação em construção...**
