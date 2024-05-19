@@ -145,7 +145,7 @@ Feature: Wizard Dados do Veiculo
 
 	**/src/test/java/bdd/RunScenarios.java**
 
-- Caminho para os arquivos com o TDD (métodos do BDD) no Guthub:
+- Caminho para os arquivos de testes com o TDD (métodos do BDD) no Github:
 
 	**/src/test/java/tests**
 
