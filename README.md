@@ -90,7 +90,7 @@ bdd_test
 ![02_IMG_POM_XML](https://github.com/moiseschiaretto/JavaWeb/assets/84775466/49cb27e0-b3f6-43ee-a02a-213816aa306b)
 
 
-## Aqruivo do BDD "DadosDoVeinculo.feature!
+## Arquivo do BDD "DadosDoVeinculo.feature!
 
 - Este arquivo contém o BDD do projeto escrito na linguagem Gherkin com o framework Cucumber.
 
