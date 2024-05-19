@@ -96,7 +96,7 @@ bdd_test
 
 - Caminho deste arquivo no repositório Github:
 
-**JavaWeb/src/test/java/bdd/DadosDoVeiculo.feature**
+	**JavaWeb/src/test/java/bdd/DadosDoVeiculo.feature**
 
 ```
 
@@ -143,7 +143,7 @@ Feature: Wizard Dados do Veiculo
 
 - Caminho deste arquivo no repositório Github:
 
-**src/test/java/bdd/RunScenarios.java**
+	**src/test/java/bdd/RunScenarios.java**
 
 
 ```
