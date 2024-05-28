@@ -63,12 +63,12 @@ bdd_test
 
 - Este arquivo contém todas as dependências do projeto, do **Apache Maven**, site do repositório de dependências:
 
-- https://mvnrepository.com/
+https://mvnrepository.com/
 
 ![09_Apache_Maven](https://github.com/moiseschiaretto/JavaWeb/assets/84775466/8cde13f8-6a79-4ca2-b4d5-13fe6e384164)
 
 
-- Dependências do **Arquivo "pom.xml":**
+### Dependências do Arquivo "pom.xml"
 
     - Framework Cucumber para utilizar a linguagem **Gherkin e escrever o BDD.**
 
