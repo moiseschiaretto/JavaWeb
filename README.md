@@ -69,8 +69,7 @@ https://mvnrepository.com/
 <br>
 
 ![09_Apache_Maven](https://github.com/moiseschiaretto/JavaWeb/assets/84775466/a89cac1e-cf2b-460a-a388-57a2b748a992)
-
-
+<br>
 <br>
 
 
@@ -94,6 +93,8 @@ https://mvnrepository.com/
 
 
 ![02_IMG_POM_XML](https://github.com/moiseschiaretto/JavaWeb/assets/84775466/49cb27e0-b3f6-43ee-a02a-213816aa306b)
+<br>
+<br>
 
 
 ## Arquivo do BDD "DadosDoVeinculo.feature"
@@ -147,6 +148,8 @@ Feature: Wizard Dados do Veiculo
     Then clicar no botao Send para enviar os dados e exibir a mensagem de alerta de confirmacao de envio
 
 ```
+<br>
+
 
 ## Arquivo "RunScenarios.java"
 
@@ -159,6 +162,8 @@ Feature: Wizard Dados do Veiculo
 - Caminho para os arquivos de testes com o TDD (métodos do BDD) no Github:
 
 	**/src/test/java/tests**
+<br>
+
 
 ```
 
@@ -189,4 +194,4 @@ public class RunScenarios {
 ```
 
 
-**Documentação em construção...**
+### Documentação em construção...
