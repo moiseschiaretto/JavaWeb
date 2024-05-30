@@ -74,19 +74,21 @@ https://mvnrepository.com/
 
 
 ### Dependências do Arquivo "pom.xml"
+<br>
 
-    - Framework Cucumber para utilizar a linguagem **Gherkin e escrever o BDD.**
+Framework Cucumber para utilizar a linguagem **Gherkin e escrever o BDD.**
 
-        - FrameWork Cucumber também com o plugin instalado em: **Menu Help, opção Eclipse Marketplace, Guia Search, Find = "Cucumber" (ver imagem abaixo).**
+FrameWork Cucumber também com o plugin instalado em: **Menu Help, opção Eclipse Marketplace, Guia Search, Find = "Cucumber" (ver imagem abaixo).**
      
-        - Selecionar o **"Cucumber Eclipse Plugin versão"** e clicar no botão **"Install".**
+Selecionar o **"Cucumber Eclipse Plugin versão"** e clicar no botão **"Install".**
+
      
-    ![03_Instalar_Plugin_Cucumber](https://github.com/moiseschiaretto/JavaWeb/assets/84775466/afb2be50-e135-4dc3-93e0-780167dfd69f)
+![03_Instalar_Plugin_Cucumber](https://github.com/moiseschiaretto/JavaWeb/assets/84775466/afb2be50-e135-4dc3-93e0-780167dfd69f)
 
  
-    - JUnit para a **execução do BDD e do TDD (código Java).**
+JUnit para a **execução do BDD e do TDD (código Java).**
  
-    - Selenium WebDriver para **acessar o browser e a URL especificada no código Java.**
+Selenium WebDriver para **acessar o browser e a URL especificada no código Java.**
 
 
 ![01_IMG_POM_XML](https://github.com/moiseschiaretto/JavaWeb/assets/84775466/6b49dcee-9e84-4c4d-b486-7d5b53fb138e)
