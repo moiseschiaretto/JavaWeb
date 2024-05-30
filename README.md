@@ -63,9 +63,15 @@ bdd_test
 
 ## Arquivo "pom.xml"
 
-- Este arquivo contém todas as dependências do projeto, do **Apache Maven**, site do repositório de dependências:
+Este arquivo contém todas as dependências do projeto, o **Apache Maven**, site do repositório de dependências abaixo.
 
 https://mvnrepository.com/
+<br>
+
+![09_Apache_Maven](https://github.com/moiseschiaretto/JavaWeb/assets/84775466/a89cac1e-cf2b-460a-a388-57a2b748a992)
+
+
+<br>
 
 ![09_Apache_Maven](https://github.com/moiseschiaretto/JavaWeb/assets/84775466/8cde13f8-6a79-4ca2-b4d5-13fe6e384164)
 
@@ -94,9 +100,12 @@ https://mvnrepository.com/
 
 ## Arquivo do BDD "DadosDoVeinculo.feature"
 
-- Este arquivo contém o BDD do projeto escrito na linguagem Gherkin com o framework Cucumber.
+Este arquivo contém o BDD do projeto escrito na linguagem Gherkin com o framework Cucumber.
 
-- Caminho deste arquivo no repositório Github:
+![06_Cucumber](https://github.com/moiseschiaretto/JavaWeb/assets/84775466/7f6c2e79-4edc-4e9b-9aed-d604b8b94265)
+
+
+Caminho deste arquivo no repositório Github:
 
 	**/src/test/java/bdd/DadosDoVeiculo.feature**
 
