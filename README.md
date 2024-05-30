@@ -1,16 +1,18 @@
 ## Projeto "bdd_test"
 
-- Autor Moisés Ademir Chiaretto
+Autor Moisés Ademir Chiaretto
   
-- Descrição das explicações de cada item da 'estrutura do projeto "bdd_test" desenvolvido'.
+Descrição das explicações de cada item da 'estrutura do projeto "bdd_test" desenvolvido'.
   
-- **Java com Selenium WebDriver, Cucumber (BDD com a linguagem Gherkin) e o TDD (métodos) com o código Java.**
+**Java com Selenium WebDriver, Cucumber (BDD com a linguagem Gherkin) e o TDD (métodos) com o código Java.**
+<br>
 
-![08_Selenium_Webdriver](https://github.com/moiseschiaretto/JavaWeb/assets/84775466/1dbd267d-18bf-4aaf-b9ec-caf1516f9bc8)
+|Java		|JUnit	|Apache Maven	|Selenium WebDriver	|Cucumber	|IDE Eclipse	|
+|---------------|-------|---------------|-----------------------|---------------|---------------|
+| ![07_Java](https://github.com/moiseschiaretto/JavaWeb/assets/84775466/cc07e458-d90e-4fd4-ba5b-cc1d281f39ad) | <img width="217" alt="00_JUnit_5" src="https://github.com/moiseschiaretto/JavaWeb/assets/84775466/355bcdd9-3cea-4333-9296-a18c57081401"> | ![09_Apache_Maven](https://github.com/moiseschiaretto/JavaWeb/assets/84775466/a302dfe3-f02c-4a80-94b6-d7d6ac0c922f) | ![08_Selenium_Webdriver](https://github.com/moiseschiaretto/JavaWeb/assets/84775466/564c3477-32ce-4481-b81d-482fd6596abf) | ![06_Cucumber](https://github.com/moiseschiaretto/JavaWeb/assets/84775466/601bc1e4-c198-4a3b-8258-c475ab77e15d) | <img width="329" alt="00_Logo_IDE_Eclipse" src="https://github.com/moiseschiaretto/JavaWeb/assets/84775466/8acd8574-c949-41e4-85ac-deb6730b516d"> |
 
-![06_Cucumber](https://github.com/moiseschiaretto/JavaWeb/assets/84775466/3faf7828-419d-4811-bb34-40dd36ddb338)
-
-![07_Java](https://github.com/moiseschiaretto/JavaWeb/assets/84775466/22e317e3-2911-404a-a5f6-c7decf1e24ab)
+<br>
+<br>
  
 
 ## Estrutura do Projeto "bdd_test"
