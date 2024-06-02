@@ -7,9 +7,9 @@ Descrição das explicações de cada item da 'estrutura do projeto "bdd_test" d
 **Java com Selenium WebDriver, Cucumber (BDD com a linguagem Gherkin) e o TDD (métodos) com o código Java.**
 <br>
 
-|Java		|JUnit	|Apache Maven	|Selenium WebDriver	|Cucumber	|IDE Eclipse	|
-|---------------|-------|---------------|-----------------------|---------------|---------------|
-| ![07_Java](https://github.com/moiseschiaretto/JavaWeb/assets/84775466/cc07e458-d90e-4fd4-ba5b-cc1d281f39ad) | <img width="217" alt="00_JUnit_5" src="https://github.com/moiseschiaretto/JavaWeb/assets/84775466/355bcdd9-3cea-4333-9296-a18c57081401"> | ![09_Apache_Maven](https://github.com/moiseschiaretto/JavaWeb/assets/84775466/a302dfe3-f02c-4a80-94b6-d7d6ac0c922f) | ![08_Selenium_Webdriver](https://github.com/moiseschiaretto/JavaWeb/assets/84775466/564c3477-32ce-4481-b81d-482fd6596abf) | <img width="198" alt="Cucumber" src="https://github.com/moiseschiaretto/JavaWeb/assets/84775466/9a0ee34c-f35d-44c7-b8da-b6f038fdc65d">| <img width="329" alt="00_Logo_IDE_Eclipse" src="https://github.com/moiseschiaretto/JavaWeb/assets/84775466/8acd8574-c949-41e4-85ac-deb6730b516d"> |
+|Java		|JUnit		|Apache Maven		|Selenium WebDriver	|Cucumber	|IDE Eclipse	|
+|---------------|---------------|-----------------------|-----------------------|---------------|---------------|
+| <img width="175" alt="00_JDK" src="https://github.com/moiseschiaretto/JavaWeb/assets/84775466/a1203c06-d9e3-4ea8-bf96-0cacf2eb17b9"> | <img width="217" alt="00_JUnit_5" src="https://github.com/moiseschiaretto/JavaWeb/assets/84775466/355bcdd9-3cea-4333-9296-a18c57081401"> | ![09_Apache_Maven](https://github.com/moiseschiaretto/JavaWeb/assets/84775466/a302dfe3-f02c-4a80-94b6-d7d6ac0c922f) | ![08_Selenium_Webdriver](https://github.com/moiseschiaretto/JavaWeb/assets/84775466/564c3477-32ce-4481-b81d-482fd6596abf) | <img width="198" alt="Cucumber" src="https://github.com/moiseschiaretto/JavaWeb/assets/84775466/9a0ee34c-f35d-44c7-b8da-b6f038fdc65d">| <img width="329" alt="00_Logo_IDE_Eclipse" src="https://github.com/moiseschiaretto/JavaWeb/assets/84775466/8acd8574-c949-41e4-85ac-deb6730b516d"> |
 
 <br>
 <br>
